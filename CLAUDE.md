@@ -1,5 +1,7 @@
 # Arrangement Editor — AI Agent Guide
 
+> **Note:** The official Slopsmith project is no longer maintained. [feedBack](https://github.com/got-feedBack/feedBack) (`got-feedBack`) is its successor.
+
 Full design reference: [`specs/001-editor/plan.md`](specs/001-editor/plan.md). Read it first for architecture, route table, file map, and integration points with Slopsmith core.
 
 ## Quick orientation

@@ -1,5 +1,7 @@
 # Slopsmith — Arrangement Editor Plugin
 
+> **The official Slopsmith project is no longer maintained.** [feedBack](https://github.com/got-feedBack/feedBack) is its successor — see [feedBack-plugin-editor](https://github.com/got-feedBack/feedBack-plugin-editor) for the actively maintained version of this plugin.
+
 DAW-style timeline editor for Rocksmith CDLC. Runs as a full-screen plugin inside [Slopsmith](https://github.com/carochacs/slopsmith).
 
 ## What it does
